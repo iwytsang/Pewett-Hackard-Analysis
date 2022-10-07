@@ -10,7 +10,7 @@ As determined by our analysis, we have exported a list of retiring employees alo
 From our analysis, we can determine that:
 * The most employees retiring are Senior Engineers and Senior Staff, with 25,916 and 24,296 employees, respectively
 * The least amount of employees retiring are Managers, with only 2 retiring
-* As per the mentorship eligibility table, we can see that there are 1549 employees eligible for the metorship program.
+* As per the mentorship eligibility table, we can see that there are 1,549 employees eligible for the mentorship program.
 
 ![image](https://user-images.githubusercontent.com/108503112/194637775-c3cdfc5d-b5cb-4310-b9bf-cf68a23ac0e6.png)
 
@@ -20,7 +20,7 @@ From our analysis, we can determine that:
 
 ## Summary
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Based on the count of retiring employees, we can determine that,
+Based on the count of retiring employees, we can determine that there is a total of 72,458 employees retiring and therefore, 72,458 vacant employee positions will need to be filled.
 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Based on our analysis, we can't determine if there are enough 
+Based on our analysis, there are not enough eligible employees from the mentorship eligiblity table to have a 1:1 mentor relationship with the next generation of Pewlett Hackard employees. In fact, each mentor would have to take on approximately 47 mentees based on the lack of mentors available
