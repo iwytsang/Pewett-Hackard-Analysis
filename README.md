@@ -17,6 +17,8 @@ Based on the unique employees retiring list, we can then do a count of all the e
 
 ![image](https://user-images.githubusercontent.com/108503112/194641257-999546b3-2ee7-4f1f-9d87-8992dbd11ba9.png)
 
+![image](https://user-images.githubusercontent.com/108503112/194642693-c60b426c-27c6-48b7-baef-bcb4e1459a26.png)
+
 
 
 ## Summary
