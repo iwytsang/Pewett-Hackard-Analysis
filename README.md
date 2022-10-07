@@ -20,6 +20,7 @@ From our analysis, we can determine that:
 
 ## Summary
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-We can determine that 
+Based on the count of retiring employees, we can determine that,
 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Based on our analysis, we can't determine if there are enough 
