@@ -9,9 +9,14 @@ As determined my our analysis, we have exported a list of retiring employees alo
 
 ![image](https://user-images.githubusercontent.com/108503112/194637858-ab690c89-7710-4827-857e-a7a210ca7b98.png)
 
-
+The list of retiring employees above did not have unique employees so we retrieved their most recent job title.
 
 ![image](https://user-images.githubusercontent.com/108503112/194637775-c3cdfc5d-b5cb-4310-b9bf-cf68a23ac0e6.png)
+
+Based on the unique employees retiring list, we can then do a count of all the employees retiring, grouped by their job title.
+
+![image](https://user-images.githubusercontent.com/108503112/194641257-999546b3-2ee7-4f1f-9d87-8992dbd11ba9.png)
+
 
 
 ## Summary
