@@ -23,7 +23,9 @@ From our analysis, we can determine that:
 
 ## Summary
 * **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
+
 Based on the count of retiring employees, we can determine that there is a total of 72,458 employees retiring and therefore, 72,458 vacant employee positions will need to be filled.
 
 * **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+
 Based on our analysis, there are not enough eligible employees from the mentorship eligiblity table to have a 1:1 mentor relationship with the next generation of Pewlett Hackard employees. In fact, each mentor would have to take on approximately 47 mentees based on the lack of mentors available
