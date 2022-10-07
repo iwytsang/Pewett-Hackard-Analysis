@@ -10,7 +10,7 @@ As determined by our analysis, we have exported a list of retiring employees alo
 From our analysis, we can determine that:
 * The most employees retiring are Senior Engineers and Senior Staff, with 25,916 and 24,296 employees, respectively
 * The least amount of employees retiring are Managers, with only 2 retiring
-* 
+* As per the mentorship eligibility csv, we can see that there are 1549 employees eligible for the metorship program.
 
 ![image](https://user-images.githubusercontent.com/108503112/194637775-c3cdfc5d-b5cb-4310-b9bf-cf68a23ac0e6.png)
 
