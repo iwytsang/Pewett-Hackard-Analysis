@@ -14,15 +14,19 @@ From our analysis, we can determine that:
 * As per the mentorship eligibility table, we can see that there are 1,549 employees eligible for the mentorship program
 
 Retirement Titles
+
 ![image](https://user-images.githubusercontent.com/108503112/194651964-ae757856-1125-4023-923a-42ac1f64a45e.png)
 
 Unique Titles
+
 ![image](https://user-images.githubusercontent.com/108503112/194637775-c3cdfc5d-b5cb-4310-b9bf-cf68a23ac0e6.png)
 
 Retiring Titles
+
 ![image](https://user-images.githubusercontent.com/108503112/194641257-999546b3-2ee7-4f1f-9d87-8992dbd11ba9.png)
 
 Mentorship Eligibility
+
 ![image](https://user-images.githubusercontent.com/108503112/194642693-c60b426c-27c6-48b7-baef-bcb4e1459a26.png)
 
 ## Summary
