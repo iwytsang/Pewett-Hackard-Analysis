@@ -30,7 +30,7 @@ Based on the count of retiring employees, we can determine that there is a total
 
 Based on our analysis, there are not enough eligible employees from the mentorship eligiblity table to have a 1:1 mentor relationship with the next generation of Pewlett Hackard employees. In fact, each mentor would have to take on approximately 47 mentees based on the lack of mentors available
 
-* **Additional Insights
+* **Additional Insights**
 
 Currently, our analysis does not include any information regarding which departments the employees are retiring from. In order for each department to appropriately prepare for the "silver tsunami", they will need an accurate count of how many employees and which titles are retiring per department. In this case, a new table will have to be created to group by department and title.
 
