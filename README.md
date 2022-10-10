@@ -42,4 +42,4 @@ Based on our analysis, there are not enough eligible employees from the mentorsh
 
 Currently, our analysis does not include any information regarding which departments the employees are retiring from. In order for each department to appropriately prepare for the "silver tsunami", they will need an accurate count of how many employees and which titles are retiring per department. In this case, a new table will have to be created to group by department and title.
 
-Another additional analysis that could be to create a new table that includes the salaries of each department. This would allow each department to budget for the salaries of the new employees they will hire when the "silver tsunami" happens. 
+Another additional analysis that could be to create a new table that includes the salaries of each department. This would allow each department to create a budget for their employee hiring wage expense when the "silver tsunami" happens. 
